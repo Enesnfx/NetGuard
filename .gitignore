@@ -1,0 +1,9 @@
+# Local, per-machine files. config.json holds your AbuseIPDB API key: never commit it.
+config.json
+.ip_cache.json
+.vendor_db_ready
+whitelist.json
+__pycache__/
+*.pyc
+*.csv
+*.pdf
